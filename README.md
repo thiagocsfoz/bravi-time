@@ -1,9 +1,16 @@
 # The Time in Words
 
-#Requeriments:
+# Requeriments:
 - JAVA 8
 - Maven
 
-#Commands:
-- mvn spring-boot:run - type exit in command line for exit program.
-- mvn test - run units tests.
+# Commands:
+```bash
+mvn spring-boot:run
+```
+Type exit in command line for exit program.
+
+```bash
+mvn test
+```
+Run units tests.
